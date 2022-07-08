@@ -4,34 +4,46 @@
 #include "Timer.h"
 #include <iostream>
 #include <fstream>
+#include <csignal>
 
 int main() {
+    char buff[FILENAME_MAX]; //create string buffer to hold path
+    getcwd( buff, FILENAME_MAX );
+    std::string current_working_dir(buff);
+    std::cout << current_working_dir << std::endl;
+
     std::vector<StringComparisonAlgorithmBase*> algorithms;
-    std::vector<long> times;
 
     algorithms.push_back(new BoasAlgorithm());
     algorithms.push_back(new IterativeAlgorithm());
-
-    std::ifstream dataFile("data.txt");
 
 
     Timer timer;
 
     for (StringComparisonAlgorithmBase* algorithm : algorithms) {
-        timer.start();
+        long time = 0;
+        unsigned int shortcuts = 0;
 
         std::string line;
         std::string nextLine;
 
-        std::getline(dataFile, line);
+        std::ifstream dataFile("../data.txt");
 
-        while (std::getline(dataFile, line)) {
+        while (std::getline(dataFile, nextLine)) {
+            timer.start();
+            algorithm->compareStrings(&line[0], line.size(), &nextLine[0], nextLine.size());
+            timer.end();
 
-            algorithm->compareStrings(&line[0], line.size(), &line[0], line.size());
+            if (line.size() != nextLine.size()) {
+                shortcuts++;
+            }
+
+            time += timer.getDelta();
+
+            line = nextLine;
         }
 
-        timer.end();
 
-        times.push_back(timer.getDelta());
+        std::cout << algorithm->getName() << ": " << time / 1000 << "μs, with " << shortcuts << " shortcuts."<<  std::endl;
     }
 }
