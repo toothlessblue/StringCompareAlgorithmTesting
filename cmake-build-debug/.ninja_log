@@ -1,0 +1,6 @@
+# ninja log v5
+0	86	1657295363983415311	CMakeFiles/StringComparisons.dir/Timer.cpp.o	d041f1b038881643
+1	25	1657294930123218960	CMakeFiles/StringComparisons.dir/IterativeCompare.cpp.o	11967c301c43c603
+0	282	1657295330776033522	CMakeFiles/StringComparisons.dir/main.cpp.o	13b1e774c5362fcd
+86	225	1657295364123413407	StringComparisons	a1ada0497c3a9cd1
+0	239	1657295288396247511	CMakeFiles/StringComparisons.dir/BoasAlgorithm.cpp.o	ad9a9a463b074d6

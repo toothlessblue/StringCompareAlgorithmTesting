@@ -1,0 +1,619 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Waterfall (B.I album) - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"91caf970-2cb6-4e26-91aa-f0b6d683df64","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Waterfall_(B.I_album)","wgTitle":"Waterfall (B.I album)","wgCurRevisionId":1092927040,"wgRevisionId":1092927040,"wgArticleId":67899541,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Korean-language sources (ko)","CS1 maint: url-status","CS1 Japanese-language sources (ja)","Articles with short description","Short description is different from Wikidata","Articles with hAudio microformats","Album articles lacking alt text for covers","AC with 0 elements",
+"Korean-language albums","2021 debut albums","Charity albums"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Waterfall_(B.I_album)","wgRelevantArticleId":67899541,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"English","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgWikibaseItemId":"Q107291952","GEHomepageSuggestedEditsEnableTopics":true,
+"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","skins.vector.legacy.js","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert",
+"ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.tablesorter.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.39.0-wmf.19"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/2/2b/B.I_Waterfall_Album_Cover.jpg"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="1200"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/2/2b/B.I_Waterfall_Album_Cover.jpg"/>
+<meta property="og:image:width" content="800"/>
+<meta property="og:image:height" content="800"/>
+<meta property="og:image:width" content="640"/>
+<meta property="og:image:height" content="640"/>
+<meta name="viewport" content="width=1000"/>
+<meta property="og:title" content="Waterfall (B.I album) - Wikipedia"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Waterfall_(B.I_album)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Waterfall_(B.I_album)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Waterfall_(B.I_album)"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Waterfall_B_I_album rootpage-Waterfall_B_I_album skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><i>Waterfall</i> (B.I album)</h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">2021 studio album&#32;by B.I</div><style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox vevent haudio"><tbody><tr><th colspan="2" class="infobox-above summary album" style="font-style: italic; background-color: lightsteelblue; font-size: 125%;">Waterfall</th></tr><tr><td colspan="2" class="infobox-image"><a href="/wiki/File:B.I_Waterfall_Album_Cover.jpg" class="image"><img alt="B.I Waterfall Album Cover.jpg" src="//upload.wikimedia.org/wikipedia/en/thumb/2/2b/B.I_Waterfall_Album_Cover.jpg/220px-B.I_Waterfall_Album_Cover.jpg" decoding="async" width="220" height="220" srcset="//upload.wikimedia.org/wikipedia/en/2/2b/B.I_Waterfall_Album_Cover.jpg 1.5x" data-file-width="316" data-file-height="316" /></a></td></tr><tr><th colspan="2" class="infobox-header description" style="background-color: lightsteelblue"><a href="/wiki/Album" title="Album">Studio album</a>&#32;by <div class="contributor" style="display:inline"><a href="/wiki/B.I_(rapper)" title="B.I (rapper)">B.I</a></div></th></tr><tr><th scope="row" class="infobox-label">Released</th><td class="infobox-data published">June&#160;1,&#160;2021<span style="display:none">&#160;(<span class="bday dtstart published updated">2021-06-01</span>)</span></td></tr><tr><th scope="row" class="infobox-label">Studio</th><td class="infobox-data plainlist">Titan Recording Studio, Seoul, South Korea</td></tr><tr><th scope="row" class="infobox-label"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th><td class="infobox-data category hlist">
+<ul><li><a href="/wiki/Rap" class="mw-redirect" title="Rap">Rap</a></li>
+<li><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a></li>
+<li><a href="/wiki/Contemporary_R%26B" title="Contemporary R&amp;B">R&amp;B</a></li>
+<li><a href="/wiki/Soul_music" title="Soul music">Soul</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></li></ul>
+</td></tr><tr><th scope="row" class="infobox-label">Length</th><td class="infobox-data"><span class="duration"><span class="min">40</span>:<span class="s">07</span></span></td></tr><tr><th scope="row" class="infobox-label">Language</th><td class="infobox-data category"><a href="/wiki/Korean_language" title="Korean language">Korean</a></td></tr><tr><th scope="row" class="infobox-label"><a href="/wiki/Record_label" title="Record label">Label</a></th><td class="infobox-data hlist"><div class="hlist hlist-separated"><ul><li>IOK Music</li><li>131 Label</li></ul></div></td></tr><tr><th scope="row" class="infobox-label"><a href="/wiki/Record_producer" title="Record producer">Producer</a></th><td class="infobox-data hlist"><div class="hlist hlist-separated"><ul><li><a href="/wiki/B.I_(rapper)" title="B.I (rapper)">B.I</a></li><li><a href="/wiki/Choice37" title="Choice37">Choice37</a></li><li>Hae</li><li>Stally</li><li>Millennium</li><li>Kang Uk-jin</li><li>Diggy</li><li>Sihwang</li><li>Basecamp</li><li>JFKID</li><li>Diggy</li><li>Eddy</li><li>Padi</li></ul></div><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup></td></tr><tr><th colspan="2" class="infobox-header description" style="background-color: lightsteelblue"><a href="/wiki/B.I_(rapper)" title="B.I (rapper)">B.I</a> chronology</th></tr><tr><td colspan="2" class="infobox-full-data">
+<table style="background: transparent; width: 100%; min-width: 100%; border-collapse: collapse; display: inline-table;">
+
+<tbody><tr style="line-height: 1.4em;">
+<td style="width: 33%; text-align: center; vertical-align: top; padding: .2em .1em .2em 0"><i><a href="/wiki/Midnight_Blue_(Love_Streaming)" title="Midnight Blue (Love Streaming)">Midnight Blue (Love Streaming)</a></i><br />(2021)
+</td>
+<td style="width: 33%; text-align: center; vertical-align: top; padding: .2em .1em"><i><b>Waterfall</b></i><br />(2021)
+</td>
+<td style="width: 33%; text-align: center; vertical-align: top; padding: .2em 0 .2em .1em"><i><a href="/wiki/Cosmos_(B.I_album)" title="Cosmos (B.I album)">Cosmos</a></i><br />(2021)
+</td></tr></tbody></table></td></tr><tr><td colspan="2" class="infobox-below"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1066479718"/></td></tr><tr><th colspan="2" class="infobox-header" style="background: lightsteelblue"><a href="/wiki/Single_(music)" title="Single (music)">Singles</a> from <i> Waterfall </i></th></tr><tr><td colspan="2" class="infobox-full-data"><div style="text-align:left">
+<ol><li><span class="item"><span class="fn">"Re-Birth"</span><br />Released: April 15, 2021</span></li>
+<li><span class="item"><span class="fn">"Waterfall"</span><br />Released: May 20, 2021</span></li>
+<li><span class="item"><span class="fn">"Illa Illa"</span><br />Released: June 1, 2021</span></li></ol>
+</div></td></tr><tr style="display:none"><td colspan="2">
+</td></tr></tbody></table>
+<p><i><b>Waterfall</b></i> is the debut studio album, and the second <a href="/wiki/Charity_album" class="mw-redirect" title="Charity album">charity</a> album by South Korean rapper <a href="/wiki/B.I_(rapper)" title="B.I (rapper)">B.I</a>. It was released on June 1, 2021, by IOK Music X 131 Label, and distributed by <a href="/wiki/Dreamus" title="Dreamus">Dreamus</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> The album contains 12 songs including the lead single "Illa Illa", all written and co-produced by B.I alongside various producers such as <a href="/wiki/YG_Entertainment" title="YG Entertainment">YG</a> famous producer <a href="/wiki/Choice37" title="Choice37">Choice37.</a><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> <sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> <i>the album include</i> two collaborations: "Stay" featuring <a href="/wiki/Tablo" title="Tablo">Tablo</a> and "Long Dream(daydream)" featuring <a href="/wiki/Lee_Hi" title="Lee Hi">Lee Hi</a>. <i>Waterfall</i> tells a condensed story of B.I's year-and-a-half-long hiatus from his perspective.<sup id="cite_ref-nmereview_7-0" class="reference"><a href="#cite_note-nmereview-7">&#91;7&#93;</a></sup>
+</p><p><i>Waterfall</i> is B.I's second donation project, the first being <i><a href="/wiki/Midnight_Blue_(Love_Streaming)" title="Midnight Blue (Love Streaming)">Midnight Blue (Love Streaming)</a></i>, with all of the copyright fees, music and album sales, and content revenue generated after the album's release being donated to the emergency relief of "Basic for Girls", conducted by the International Relief Development (NGO) <a href="/wiki/World_Vision_International" title="World Vision International">World Vision</a>. The "Basic for Girls" project aims to improve the poor environment, such as the construction of women's restrooms for women's human rights in Zambia, Africa, and support for sanitary napkins.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Release_and_promotion"><span class="tocnumber">2</span> <span class="toctext">Release and promotion</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Critical_reception"><span class="tocnumber">3</span> <span class="toctext">Critical reception</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Commercial_performance"><span class="tocnumber">4</span> <span class="toctext">Commercial performance</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Track_listing"><span class="tocnumber">5</span> <span class="toctext">Track listing</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Accolades"><span class="tocnumber">6</span> <span class="toctext">Accolades</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Charts"><span class="tocnumber">7</span> <span class="toctext">Charts</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Release_history"><span class="tocnumber">8</span> <span class="toctext">Release history</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Waterfall_(B.I_album)&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>On May 7, 2021, 131 Label announced the release schedule for the highly anticipated comeback of B.I as a solo artist, 7 years after debuting as the leader of <a href="/wiki/IKon" title="IKon">iKon</a>. This included a global single, "Got It Like That", featuring <a href="/wiki/Destiny_Rogers" title="Destiny Rogers">Destiny Rogers</a> and <a href="/wiki/Tyla_Yaweh" title="Tyla Yaweh">Tyla Yaweh</a> (released on May 14, 2021), and his first full-length album, <i>Waterfall</i> (released on June 1, 2021).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> The 12-track full-length record, <i>Waterfall</i>, is written and composed by B.I, with collaborations from other producers on compositions and arrangements. The album features K-pop vocalist <a href="/wiki/Lee_Hi" title="Lee Hi">Lee Hi</a> (on "Daydream") and rapper <a href="/wiki/Tablo" title="Tablo">Tablo</a> of <a href="/wiki/Epik_High" title="Epik High">Epik High</a> (on "Stay"). A cinematic music video for the title track "illa illa" was also released alongside the album.<sup id="cite_ref-nme_11-0" class="reference"><a href="#cite_note-nme-11">&#91;11&#93;</a></sup>
+</p><p>"I wrote the song wishing that it could provide comfort to those that listen to it. Everyone has their own struggles whether it be with relationships, work, family, loneliness," B.I stated of "Illa Illa" in a press release. "As much as it can seem difficult at the time, there is a beach in the distance. To remember that every chapter that closes just means that a new chapter is about to begin."<sup id="cite_ref-nme_11-1" class="reference"><a href="#cite_note-nme-11">&#91;11&#93;</a></sup>
+</p><p>"This album is an expression of my past, my present and my future. That every ending has a new beginning," said B.I speaking about <i>Waterfall</i> in an interview.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Release_and_promotion">Release and promotion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Waterfall_(B.I_album)&amp;action=edit&amp;section=2" title="Edit section: Release and promotion">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>All the promotions before the release were handled through the social media accounts of 131 Label and IOK Music. On May 17, 2021, at midnight KST, B.I's team released a detailed "plan poster" that outlined what fans can expect in the weeks leading up to his comeback.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> This included a live film and performance film for the intro track of the album titled "Waterfall" and short video teaser films for all the other 10 tracks in the album, excluding the title track. In addition, title and concept posters, a lyric mood film, and an M/V spoiler commentary video were released for the title track "illa illa". B.I then held a live broadcast via <a href="/wiki/YouTube" title="YouTube">YouTube</a>, 1 hour prior to the new album release.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
+</p><p>The album was released to <a href="/wiki/Music_download" title="Music download">digital music</a> and <a href="/wiki/Music_streaming" class="mw-redirect" title="Music streaming">streaming</a> platforms on June 1, 2021,<sup id="cite_ref-hankook_15-0" class="reference"><a href="#cite_note-hankook-15">&#91;15&#93;</a></sup> along with the music video for "illa illa".<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup> The album's CDs were made available for pre-order prior to the album release, and were released on June 1, 2021 as well. Two different versions of the CDs are available, Waterfall and Seaside.
+</p><p>On July 5th, officially imported edition of <i>Waterfall</i> CDs were released in Japan, with official Japanese lyrics. Two different versions of the CDs are available, Waterfall and Seaside.<sup id="cite_ref-cd_17-0" class="reference"><a href="#cite_note-cd-17">&#91;17&#93;</a></sup>
+</p><p>On August 11th, 131 Label announced a limited edition <a href="/wiki/Phonograph_record" title="Phonograph record">LP</a>. The pre-order period started on August 13th, 2021 and ended on August 22nd, 2021. The <a href="/wiki/Phonograph_record" title="Phonograph record">LP</a> will be officially released on December 22nd, 2021.<sup id="cite_ref-lp_18-0" class="reference"><a href="#cite_note-lp-18">&#91;18&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Critical_reception">Critical reception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Waterfall_(B.I_album)&amp;action=edit&amp;section=3" title="Edit section: Critical reception">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable floatright" style="float:right;clear:right;width:24.2em;font-size:88%;text-align:center;margin:0.5em 0 0.5em 1em;padding:0;border-spacing:0"><caption style="font-size:115%">Professional ratings</caption><tbody><tr><th scope="col" colspan="2" style="text-align:center;background:#d1dbdf;font-size:100%">Review scores</th></tr><tr><th scope="col">Source</th><th scope="col">Rating</th></tr><tr><td style="text-align:center;vertical-align:middle"><a href="/wiki/NME" title="NME">NME</a></td><td style="text-align:center;vertical-align:middle"><span role="img" style="white-space:nowrap" title="4/5 stars"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" decoding="async" title="4/5 stars" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" decoding="async" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" decoding="async" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" decoding="async" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" decoding="async" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span></td></tr></tbody></table>
+<p><i><a href="/wiki/NME" title="NME">NME</a></i> praised the album <i>Waterfall</i>, stating "B.I may have once reached his lowest, but this self-proclaimed waterfall has since been able to smoothen out the ground beneath him and start anew, from creating his own label to making a triumphant return to the music scene with <i>Waterfall</i>. Though he does not claim to be a one-man island; in the songs, there is also an underlying sense of gratitude and appreciation for those who supported and stood by him."<sup id="cite_ref-nmereview_7-1" class="reference"><a href="#cite_note-nmereview-7">&#91;7&#93;</a></sup>
+</p><p><a href="/wiki/Time_(magazine)" title="Time (magazine)"><i>Time</i></a> magazine included B.I's title track, "Illa Illa", on its list of "The Best K-Pop Songs of 2021 So Far", stating "with the breadth and depth of emotions he conveys, B.I. shows he's as much a storyteller as he is a songwriter."<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup><i>Time</i> also included the album, <i>Waterfall,</i> on its list of "The Best K-Pop Songs and Albums of 2021".<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Commercial_performance">Commercial performance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Waterfall_(B.I_album)&amp;action=edit&amp;section=4" title="Edit section: Commercial performance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Since its release, <i>Waterfall</i> topped the iTunes album charts in a total of 24 countries including <a href="/wiki/Russia" title="Russia">Russia</a>, <a href="/wiki/Hong_Kong" title="Hong Kong">Hong Kong</a>, <a href="/wiki/Indonesia" title="Indonesia">Indonesia</a>, <a href="/wiki/Turkey" title="Turkey">Turkey</a>, <a href="/wiki/Japan" title="Japan">Japan</a>, and <a href="/wiki/Norway" title="Norway">Norway</a>. The album also entered the top 10 list on iTunes chart in the <a href="/wiki/US" class="mw-redirect" title="US">US</a>, while reaching top 3 on the European iTunes album chart and top 2 on the Worldwide iTunes album charts.<sup id="cite_ref-charting_21-0" class="reference"><a href="#cite_note-charting-21">&#91;21&#93;</a></sup>
+</p><p>In South Korea, <i>Waterfall</i> debuted at No. 6 on the <a href="/wiki/Gaon_Album_Chart" class="mw-redirect" title="Gaon Album Chart">Gaon Album Chart</a>.<sup id="cite_ref-gaon6_22-0" class="reference"><a href="#cite_note-gaon6-22">&#91;22&#93;</a></sup> In Japan, the album debuted at No. 8 on the <a href="/wiki/Billboard_Japan" title="Billboard Japan">Billboard Japan</a> download albums chart, No. 16 on <a href="/wiki/Oricon_Albums_Chart" title="Oricon Albums Chart">Oricon's</a> weekly digital album chart and No. 44 on Oricon's weekly album chart.<sup id="cite_ref-oricon44_23-0" class="reference"><a href="#cite_note-oricon44-23">&#91;23&#93;</a></sup> <sup id="cite_ref-billboardjp8_24-0" class="reference"><a href="#cite_note-billboardjp8-24">&#91;24&#93;</a></sup> <i>Waterfall</i> peaked at No. 1 and achieved certified 3x (Triple) on <a href="/wiki/QQ_Music" title="QQ Music">QQ Music</a>'s best-selling daily album chart in <a href="/wiki/China" title="China">China</a>, selling over 40,000 digital copies.<sup id="cite_ref-charting_21-1" class="reference"><a href="#cite_note-charting-21">&#91;21&#93;</a></sup> Additionally, all 12 tracks of the album, including the title track 'illa illa', were charted-in on the latest 24hit chart of <a href="/wiki/Melon_(online_music_service)" title="Melon (online music service)">Melon</a>, a domestic music platform of <a href="/wiki/South_Korea" title="South Korea">South Korea</a>.<sup id="cite_ref-charting_21-2" class="reference"><a href="#cite_note-charting-21">&#91;21&#93;</a></sup>
+</p><p>The official music video of B.I's title track "Illa Illa" surpassed 12.7 million views on <a href="/wiki/YouTube" title="YouTube">YouTube</a>, within the first 24 hours of its release. With this, B.I broke the record for the most viewed male solo artist debut M/V within the first 24 hours.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Track_listing">Track listing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Waterfall_(B.I_album)&amp;action=edit&amp;section=5" title="Edit section: Track listing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1091054432">.mw-parser-output .tracklist{border-spacing:0}.mw-parser-output .tracklist tr{background-color:#fff}.mw-parser-output .tracklist tr:nth-child(2n-1){background-color:#f7f7f7}.mw-parser-output .tracklist caption{text-align:left;font-weight:bold}.mw-parser-output .tracklist td,.mw-parser-output .tracklist th[scope="row"]{vertical-align:top}.mw-parser-output .tracklist th[scope="col"]{text-align:left;background-color:#eee}.mw-parser-output .tracklist th.tracklist-length-header,.mw-parser-output .tracklist th.tracklist-number-header,.mw-parser-output .tracklist th[scope="row"],.mw-parser-output .tracklist-length,.mw-parser-output .tracklist-total-length td{padding-right:10px;text-align:right}.mw-parser-output .tracklist th[scope="row"]{font-weight:normal}.mw-parser-output .tracklist-number-header{width:2em;padding-left:10px}.mw-parser-output .tracklist-length-header{width:4em}.mw-parser-output .tracklist tr.tracklist-total-length{background-color:transparent}.mw-parser-output .tracklist .tracklist-total-length th{padding:0;font-weight:bold}.mw-parser-output .tracklist-total-length th>span{float:right;padding:0 10px;background-color:#eee}.mw-parser-output .tracklist-total-length td{background-color:#eee;font-weight:bold;padding:0 10px 0 0}</style><div class="track-listing"><p>All lyrics are written by <a href="/wiki/B.I_(rapper)" title="B.I (rapper)">B.I</a>.</p><table class="tracklist"><caption><i>Waterfall</i> track listing</caption><tbody><tr><th class="tracklist-number-header" scope="col"><abbr title="Number">No.</abbr></th><th scope="col" style="width:40%">Title</th><th scope="col" style="width:30%">Music</th><th scope="col" style="width:30%">Arrangement</th><th class="tracklist-length-header" scope="col">Length</th></tr><tr><th id="track1" scope="row">1.</th><td>"Waterfall"</td><td><div class="hlist hlist-separated"><ul><li>B.I</li><li><a href="/wiki/Choice37" title="Choice37">Choice37</a></li><li>Hae</li></ul></div></td><td><div class="hlist hlist-separated"><ul><li>Choice37</li><li>Hae</li></ul></div></td><td class="tracklist-length">2:45</td></tr><tr><th id="track2" scope="row">2.</th><td>"Illa Illa" (해변; <i>Haebyeon</i> [<abbr title="literally">lit.</abbr> "Beach"])</td><td><div class="hlist hlist-separated"><ul><li>B.I</li><li>Millennium</li><li>Kang Uk-jin</li><li>Diggy</li><li>Sihwang</li></ul></div></td><td><div class="hlist hlist-separated"><ul><li>Millennium</li><li>Sihwang</li></ul></div></td><td class="tracklist-length">3:25</td></tr><tr><th id="track3" scope="row">3.</th><td>"Daydream" (featuring <a href="/wiki/Lee_Hi" title="Lee Hi">Lee Hi</a>) (긴 꿈; <i>Gin Kkum</i> [<abbr title="literally">lit.</abbr> "Long Dream"])</td><td><div class="hlist hlist-separated"><ul><li>B.I</li><li>Saint Leonard</li></ul></div></td><td>Saint Leonard</td><td class="tracklist-length">3:14</td></tr><tr><th id="track4" scope="row">4.</th><td>"Numb"</td><td><div class="hlist hlist-separated"><ul><li>B.I</li><li>Stally</li><li>Basecamp</li></ul></div></td><td><div class="hlist hlist-separated"><ul><li>Stally</li><li>Basecamp</li></ul></div></td><td class="tracklist-length">3:46</td></tr><tr><th id="track5" scope="row">5.</th><td>"Illusion" (꿈결; <i>Kkumgyeol</i> [<abbr title="literally">lit.</abbr> "Dream"])</td><td><div class="hlist hlist-separated"><ul><li>B.I</li><li>JFKID</li></ul></div></td><td>JFKID</td><td class="tracklist-length">3:18</td></tr><tr><th id="track6" scope="row">6.</th><td>"Flow Away"</td><td><div class="hlist hlist-separated"><ul><li>B.I</li><li>Millennium</li></ul></div></td><td>Millennium</td><td class="tracklist-length">3:44</td></tr><tr><th id="track7" scope="row">7.</th><td>"Help Me"</td><td><div class="hlist hlist-separated"><ul><li>B.I</li><li>Millennium</li><li>Sihwang</li></ul></div></td><td><div class="hlist hlist-separated"><ul><li>Millennium</li><li>Sihwang</li></ul></div></td><td class="tracklist-length">3:20</td></tr><tr><th id="track8" scope="row">8.</th><td>"Remember Me" (역겹겠지만; <i>Yeokgyeobgetjiman</i> [<abbr title="literally">lit.</abbr> "It May Be Disgusting"])</td><td><div class="hlist hlist-separated"><ul><li>B.I</li><li>Millennium</li></ul></div></td><td>Millennium</td><td class="tracklist-length">3:39</td></tr><tr><th id="track9" scope="row">9.</th><td>"Stay" (featuring <a href="/wiki/Tablo" title="Tablo">Tablo</a>; lyrics co-written by Tablo)</td><td><div class="hlist hlist-separated"><ul><li>B.I</li><li>Choice37</li><li>Hae</li></ul></div></td><td><div class="hlist hlist-separated"><ul><li>Choice37</li><li>Hae</li></ul></div></td><td class="tracklist-length">2:56</td></tr><tr><th id="track10" scope="row">10.</th><td>"Gray" (비 온 뒤 흐림; <i>Bi On Dwi Heurim</i> [<abbr title="literally">lit.</abbr> "Cloudiness After Rain"])</td><td><div class="hlist hlist-separated"><ul><li>B.I</li><li>Kang Uk-jin</li><li>Diggy</li><li>Eddy</li></ul></div></td><td><div class="hlist hlist-separated"><ul><li>Kang Uk-jin</li><li>Diggy</li></ul></div></td><td class="tracklist-length">3:22</td></tr><tr><th id="track11" scope="row">11.</th><td>"Then" (그땐 내가; <i>Geuttaen Naega</i> [<abbr title="literally">lit.</abbr> "Back Then, I"])</td><td><div class="hlist hlist-separated"><ul><li>B.I</li><li>Padi</li></ul></div></td><td>Padi</td><td class="tracklist-length">3:11</td></tr><tr><th id="track12" scope="row">12.</th><td>"Re-Birth" (다음 생; <i>Daeum Saeng</i> [<abbr title="literally">lit.</abbr> "Next Life"])</td><td><div class="hlist hlist-separated"><ul><li>B.I</li><li>Sihwang</li><li>Millennium</li></ul></div></td><td><div class="hlist hlist-separated"><ul><li>Sihwang</li><li>Millennium</li></ul></div></td><td class="tracklist-length">3:23</td></tr></tbody></table></div>
+<h2><span class="mw-headline" id="Accolades">Accolades</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Waterfall_(B.I_album)&amp;action=edit&amp;section=6" title="Edit section: Accolades">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable plainrowheaders" style="text-align:center">
+<caption>Year-end lists
+</caption>
+<tbody><tr>
+<th scope="col">Publisher
+</th>
+<th scope="col">Year
+</th>
+<th scope="col">Listicle
+</th>
+<th scope="col">Work
+</th>
+<th scope="col">Rank
+</th>
+<th scope="col" class="unsortable">Ref.
+</th></tr>
+<tr>
+<th scope="row"><i><a href="/wiki/Time_(magazine)" title="Time (magazine)">Time</a></i>
+</th>
+<td>2021
+</td>
+<td>The Best K-Pop Songs and Albums of 2021
+</td>
+<td><i>Waterfall</i>
+</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—
+</td>
+<td><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup>
+</td></tr>
+</tbody></table>
+<h2><span class="mw-headline" id="Charts">Charts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Waterfall_(B.I_album)&amp;action=edit&amp;section=7" title="Edit section: Charts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+
+<tbody><tr>
+<td style="width: 50%;text-align: left; vertical-align: top;">
+<table class="wikitable plainrowheaders" style="text-align:center">
+<caption>Weekly chart performance for <i>Waterfall</i>
+</caption>
+<tbody><tr>
+<th scope="col">Chart (2021)
+</th>
+<th scope="col">Peak<br />position
+</th></tr>
+<tr>
+<th scope="row">Japanese Albums (<a href="/wiki/Oricon_Albums_Chart" title="Oricon Albums Chart">Oricon</a>)<sup id="cite_ref-oricon44_23-1" class="reference"><a href="#cite_note-oricon44-23">&#91;23&#93;</a></sup>
+</th>
+<td>44
+</td></tr>
+<tr>
+<th scope="row">Japan Download Albums (<a href="/wiki/Billboard_Japan" title="Billboard Japan">Billboard Japan</a>)<sup id="cite_ref-billboardjp8_24-1" class="reference"><a href="#cite_note-billboardjp8-24">&#91;24&#93;</a></sup>
+</th>
+<td>8
+</td></tr>
+<tr>
+<th scope="row">South Korean Albums (<a href="/wiki/Gaon_Album_Chart" class="mw-redirect" title="Gaon Album Chart">Gaon</a>)<sup id="cite_ref-gaon6_22-1" class="reference"><a href="#cite_note-gaon6-22">&#91;22&#93;</a></sup>
+</th>
+<td>6
+</td></tr>
+</tbody></table>
+</td>
+<td style="width: 50%;text-align: left; vertical-align: top;">
+<table class="wikitable plainrowheaders" style="text-align:center">
+<caption>Monthly chart performance for <i>Waterfall</i>
+</caption>
+<tbody><tr>
+<th scope="col">Chart (2021)
+</th>
+<th scope="col">Peak<br />position
+</th></tr>
+<tr>
+<th scope="row">South Korean Albums (Gaon)<sup id="cite_ref-gaon9_27-0" class="reference"><a href="#cite_note-gaon9-27">&#91;27&#93;</a></sup>
+</th>
+<td>9
+</td></tr>
+</tbody></table>
+<p>&#32;
+</p>
+</td></tr></tbody></table></div>
+<h2><span class="mw-headline" id="Release_history">Release history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Waterfall_(B.I_album)&amp;action=edit&amp;section=8" title="Edit section: Release history">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable plainrowheaders">
+<caption>Release dates and formats for <i>Waterfall</i>
+</caption>
+<tbody><tr>
+<th scope="col">Region
+</th>
+<th scope="col">Date
+</th>
+<th scope="col">Format(s)
+</th>
+<th scope="col">Edition(s)
+</th>
+<th scope="col">Label
+</th>
+<th scope="col"><abbr title="References">Ref.</abbr>
+</th></tr>
+<tr>
+<th scope="row">Various
+</th>
+<td rowspan="2">June 1, 2021
+</td>
+<td><div class="hlist hlist-separated">
+<ul><li><a href="/wiki/Music_download" title="Music download">Digital download</a></li>
+<li><a href="/wiki/Streaming_media" title="Streaming media">streaming</a></li></ul>
+</div>
+</td>
+<td>Standard
+</td>
+<td rowspan="4">IOK Music x 131 Label
+</td>
+<td style="text-align:center;" rowspan="2"><sup id="cite_ref-hankook_15-1" class="reference"><a href="#cite_note-hankook-15">&#91;15&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row">South Korea
+</th>
+<td><a href="/wiki/Compact_disc" title="Compact disc">CD</a> (2 versions: Waterfall and Seaside)
+</td>
+<td>Standard
+</td></tr>
+<tr>
+<th scope="row">Japan
+</th>
+<td>July 5, 2021
+</td>
+<td>CD (2 versions: Waterfall and Seaside)
+</td>
+<td>Japanese
+</td>
+<td style="text-align:center;"><sup id="cite_ref-cd_17-1" class="reference"><a href="#cite_note-cd-17">&#91;17&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row">South Korea
+</th>
+<td>December 6, 2021
+</td>
+<td><a href="/wiki/Phonograph_record" title="Phonograph record">LP</a> (1 version)
+</td>
+<td>Limited
+</td>
+<td style="text-align:center;"><sup id="cite_ref-lp_18-1" class="reference"><a href="#cite_note-lp-18">&#91;18&#93;</a></sup>
+</td></tr>
+</tbody></table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Waterfall_(B.I_album)&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist reflist-columns references-column-width" style="column-width: 30em;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1067248974">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFShravani2021" class="citation web cs1">Shravani (June 4, 2021). <a rel="nofollow" class="external text" href="https://hallyure.com/comeback/b-i-releases-full-length-album-waterfall">"B.I releases full length album 'WATERFALL'<span class="cs1-kern-right"></span>"</a>. <i>Hallyure</i><span class="reference-accessdate">. Retrieved <span class="nowrap">June 4,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Hallyure&amp;rft.atitle=B.I+releases+full+length+album+%27WATERFALL%27&amp;rft.date=2021-06-04&amp;rft.au=Shravani&amp;rft_id=https%3A%2F%2Fhallyure.com%2Fcomeback%2Fb-i-releases-full-length-album-waterfall&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWaterfall+%28B.I+album%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.melon.com/album/detail.htm?albumId=10617588">"Melon Album Information: Waterfall"</a>. <i><a href="/wiki/Melon_(online_music_service)" title="Melon (online music service)">Melon</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Melon&amp;rft.atitle=Melon+Album+Information%3A+Waterfall&amp;rft_id=https%3A%2F%2Fwww.melon.com%2Falbum%2Fdetail.htm%3FalbumId%3D10617588&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWaterfall+%28B.I+album%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://m2.melon.com/album/detail.htm?albumId=10617588">"Waterfall"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Waterfall&amp;rft_id=https%3A%2F%2Fm2.melon.com%2Falbum%2Fdetail.htm%3FalbumId%3D10617588&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWaterfall+%28B.I+album%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFChavez2021" class="citation web cs1">Chavez, Adriana (June 1, 2021). <a rel="nofollow" class="external text" href="https://vacancy-mag.com/b-i-drops-first-full-length-album-waterfall/">"B.I Drops First Full-length Album 'WATERFALL'<span class="cs1-kern-right"></span>"</a>. <i>Vacancy</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Vacancy&amp;rft.atitle=B.I+Drops+First+Full-length+Album+%27WATERFALL%27&amp;rft.date=2021-06-01&amp;rft.aulast=Chavez&amp;rft.aufirst=Adriana&amp;rft_id=https%3A%2F%2Fvacancy-mag.com%2Fb-i-drops-first-full-length-album-waterfall%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWaterfall+%28B.I+album%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1 cs1-prop-foreign-lang-source"><a rel="nofollow" class="external text" href="https://m2.melon.com/album/detail.htm?albumId=10617588">"WATERFALL"</a>. <i>멜론</i> (in Korean)<span class="reference-accessdate">. Retrieved <span class="nowrap">2022-05-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=%EB%A9%9C%EB%A1%A0&amp;rft.atitle=WATERFALL&amp;rft_id=https%3A%2F%2Fm2.melon.com%2Falbum%2Fdetail.htm%3FalbumId%3D10617588&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWaterfall+%28B.I+album%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://genius.com/albums/Bi/Waterfall">"WATERFALL by B.I"</a>. <i>Genius</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2022-05-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Genius&amp;rft.atitle=WATERFALL+by+B.I&amp;rft_id=https%3A%2F%2Fgenius.com%2Falbums%2FBi%2FWaterfall&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWaterfall+%28B.I+album%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-nmereview-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-nmereview_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-nmereview_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFC2021" class="citation web cs1">C, Ruby (June 7, 2021). <a rel="nofollow" class="external text" href="https://www.nme.com/reviews/album/b-i-waterfall-illa-illa-review-2962587">"B.I – 'Waterfall' review: a message of hope amid turbulent tides"</a>. <i>NME</i><span class="reference-accessdate">. Retrieved <span class="nowrap">June 9,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=NME&amp;rft.atitle=B.I+%E2%80%93+%27Waterfall%27+review%3A+a+message+of+hope+amid+turbulent+tides&amp;rft.date=2021-06-07&amp;rft.aulast=C&amp;rft.aufirst=Ruby&amp;rft_id=https%3A%2F%2Fwww.nme.com%2Freviews%2Falbum%2Fb-i-waterfall-illa-illa-review-2962587&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWaterfall+%28B.I+album%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1 cs1-prop-foreign-lang-source"><a rel="nofollow" class="external text" href="http://m.joynews24.com/v/1405726">"비아이, 음원 수익 사후 60년까지 기부 "자숙과 반성의 의미"<span class="cs1-kern-right"></span>"</a>. <i>inews24</i> (in Korean)<span class="reference-accessdate">. Retrieved <span class="nowrap">2021-09-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=inews24&amp;rft.atitle=%EB%B9%84%EC%95%84%EC%9D%B4%2C+%EC%9D%8C%EC%9B%90+%EC%88%98%EC%9D%B5+%EC%82%AC%ED%9B%84+60%EB%85%84%EA%B9%8C%EC%A7%80+%EA%B8%B0%EB%B6%80+%22%EC%9E%90%EC%88%99%EA%B3%BC+%EB%B0%98%EC%84%B1%EC%9D%98+%EC%9D%98%EB%AF%B8%22&amp;rft_id=http%3A%2F%2Fm.joynews24.com%2Fv%2F1405726&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWaterfall+%28B.I+album%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.rappler.com/entertainment/music/kim-hanbin-solo-album-june-2021">"Kim Han-bin to release solo album next month"</a>. <i>Rappler</i>. May 9, 2021<span class="reference-accessdate">. Retrieved <span class="nowrap">May 9,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Rappler&amp;rft.atitle=Kim+Han-bin+to+release+solo+album+next+month&amp;rft.date=2021-05-09&amp;rft_id=https%3A%2F%2Fwww.rappler.com%2Fentertainment%2Fmusic%2Fkim-hanbin-solo-album-june-2021&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWaterfall+%28B.I+album%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFMoon2021" class="citation web cs1 cs1-prop-foreign-lang-source">Moon, Byoung-eon (June 7, 2021). <a rel="nofollow" class="external text" href="http://m.hankooki.com/m_dh_view.php?m=&amp;WM=dh&amp;WEB_GSNO=6864867">"아이오케이, 음원사업 호조…'비아이' 앨범 폭발적 인기"</a>. <i>Daily Korea</i> (in Korean)<span class="reference-accessdate">. Retrieved <span class="nowrap">June 9,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Daily+Korea&amp;rft.atitle=%EC%95%84%EC%9D%B4%EC%98%A4%EC%BC%80%EC%9D%B4%2C+%EC%9D%8C%EC%9B%90%EC%82%AC%EC%97%85+%ED%98%B8%EC%A1%B0%E2%80%A6%27%EB%B9%84%EC%95%84%EC%9D%B4%27+%EC%95%A8%EB%B2%94+%ED%8F%AD%EB%B0%9C%EC%A0%81+%EC%9D%B8%EA%B8%B0&amp;rft.date=2021-06-07&amp;rft.aulast=Moon&amp;rft.aufirst=Byoung-eon&amp;rft_id=http%3A%2F%2Fm.hankooki.com%2Fm_dh_view.php%3Fm%3D%26WM%3Ddh%26WEB_GSNO%3D6864867&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWaterfall+%28B.I+album%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-nme-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-nme_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-nme_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFYeo2021" class="citation web cs1">Yeo, Gladys (June 1, 2021). <a rel="nofollow" class="external text" href="https://www.nme.com/news/music/b-i-announces-comeback-new-album-global-single-2935861">"B.I drops debut solo album 'Waterfall', featuring collabs with Lee Hi and Tablo"</a>. <i>NME</i><span class="reference-accessdate">. Retrieved <span class="nowrap">June 9,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=NME&amp;rft.atitle=B.I+drops+debut+solo+album+%27Waterfall%27%2C+featuring+collabs+with+Lee+Hi+and+Tablo&amp;rft.date=2021-06-01&amp;rft.aulast=Yeo&amp;rft.aufirst=Gladys&amp;rft_id=https%3A%2F%2Fwww.nme.com%2Fnews%2Fmusic%2Fb-i-announces-comeback-new-album-global-single-2935861&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWaterfall+%28B.I+album%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://etcanada.com/video/4140df60-d5f3-11eb-9ab4-0242ac110004/b-i-wants-to-collaborate-with-post-malone/">"B.I Wants To Collaborate With Post Malone"</a>. <i>ET Canada</i>. June 25, 2021<span class="reference-accessdate">. Retrieved <span class="nowrap">July 18,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ET+Canada&amp;rft.atitle=B.I+Wants+To+Collaborate+With+Post+Malone&amp;rft.date=2021-06-25&amp;rft_id=https%3A%2F%2Fetcanada.com%2Fvideo%2F4140df60-d5f3-11eb-9ab4-0242ac110004%2Fb-i-wants-to-collaborate-with-post-malone%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWaterfall+%28B.I+album%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFHong2021" class="citation web cs1 cs1-prop-foreign-lang-source">Hong, Hye-min (May 17, 2021). <a rel="nofollow" class="external text" href="https://www.hankookilbo.com/News/Read/A2021051710070005849">"비아이, 첫 정규는 'WATERFALL'...본격 컴백 시동"</a> &#91;B.I, the first full-length album 'WATERFALL'. Full-fledged comeback start.&#93;. <i><a href="/wiki/Hankook_Ilbo" title="Hankook Ilbo">Hankook Ilbo</a></i> (in Korean)<span class="reference-accessdate">. Retrieved <span class="nowrap">June 12,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Hankook+Ilbo&amp;rft.atitle=%EB%B9%84%EC%95%84%EC%9D%B4%2C+%EC%B2%AB+%EC%A0%95%EA%B7%9C%EB%8A%94+%27WATERFALL%27...%EB%B3%B8%EA%B2%A9+%EC%BB%B4%EB%B0%B1+%EC%8B%9C%EB%8F%99&amp;rft.date=2021-05-17&amp;rft.aulast=Hong&amp;rft.aufirst=Hye-min&amp;rft_id=https%3A%2F%2Fwww.hankookilbo.com%2FNews%2FRead%2FA2021051710070005849&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWaterfall+%28B.I+album%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFHwang2021" class="citation web cs1 cs1-prop-foreign-lang-source">Hwang, Hye-jin (June 1, 2021). <a rel="nofollow" class="external text" href="https://www.newsen.com/news_view.php?uid=202106011705070410">"<span class="cs1-kern-left"></span>'컴백' 비아이 "이하이·타블로, 피처링 부탁 흔쾌히 받아줘…진심 감동"<span class="cs1-kern-right"></span>"</a> &#91;'Comeback' B.I, "Lee Hi, Tablo gladly accepted my featuring request. I'm so touched."&#93;. <i>Newsen</i> (in Korean)<span class="reference-accessdate">. Retrieved <span class="nowrap">June 12,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Newsen&amp;rft.atitle=%27%EC%BB%B4%EB%B0%B1%27+%EB%B9%84%EC%95%84%EC%9D%B4+%22%EC%9D%B4%ED%95%98%EC%9D%B4%C2%B7%ED%83%80%EB%B8%94%EB%A1%9C%2C+%ED%94%BC%EC%B2%98%EB%A7%81+%EB%B6%80%ED%83%81+%ED%9D%94%EC%BE%8C%ED%9E%88+%EB%B0%9B%EC%95%84%EC%A4%98%E2%80%A6%EC%A7%84%EC%8B%AC+%EA%B0%90%EB%8F%99%22&amp;rft.date=2021-06-01&amp;rft.aulast=Hwang&amp;rft.aufirst=Hye-jin&amp;rft_id=https%3A%2F%2Fwww.newsen.com%2Fnews_view.php%3Fuid%3D202106011705070410&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWaterfall+%28B.I+album%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-hankook-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-hankook_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-hankook_15-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFHong2021" class="citation web cs1 cs1-prop-foreign-lang-source">Hong, Hye-min (June 1, 2021). <a rel="nofollow" class="external text" href="https://www.hankookilbo.com/News/Read/A2021060117370003508">"비아이, 7년 만 첫 정규에 담은 #공백기 #해변 #이하이 #타블로"</a> &#91;B.I, first full-length album in 7 years. #Blank #Beach #LeeHi #Tablo&#93;. <i><a href="/wiki/Hankook_Ilbo" title="Hankook Ilbo">Hankook Ilbo</a></i> (in Korean)<span class="reference-accessdate">. Retrieved <span class="nowrap">June 12,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Hankook+Ilbo&amp;rft.atitle=%EB%B9%84%EC%95%84%EC%9D%B4%2C+7%EB%85%84+%EB%A7%8C+%EC%B2%AB+%EC%A0%95%EA%B7%9C%EC%97%90+%EB%8B%B4%EC%9D%80+%23%EA%B3%B5%EB%B0%B1%EA%B8%B0+%23%ED%95%B4%EB%B3%80+%23%EC%9D%B4%ED%95%98%EC%9D%B4+%23%ED%83%80%EB%B8%94%EB%A1%9C&amp;rft.date=2021-06-01&amp;rft.aulast=Hong&amp;rft.aufirst=Hye-min&amp;rft_id=https%3A%2F%2Fwww.hankookilbo.com%2FNews%2FRead%2FA2021060117370003508&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWaterfall+%28B.I+album%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFPark2021" class="citation web cs1 cs1-prop-foreign-lang-source">Park, Sang-woo (June 1, 2021). <a rel="nofollow" class="external text" href="http://isplus.live.joins.com/news/article/article.asp?total_id=24071835">"&#91;알쓸신곡&#93; "외롭고 미숙한 나"…비아이, '해변'에 담은 심경"</a> &#91;(New Song) "Lonely and inexperienced me." B.I, how you feel about the "beach".&#93;. <i><a href="/wiki/Ilgan_Sports" title="Ilgan Sports">Ilgan Sports</a></i> (in Korean)<span class="reference-accessdate">. Retrieved <span class="nowrap">June 12,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Ilgan+Sports&amp;rft.atitle=%5B%EC%95%8C%EC%93%B8%EC%8B%A0%EA%B3%A1%5D+%22%EC%99%B8%EB%A1%AD%EA%B3%A0+%EB%AF%B8%EC%88%99%ED%95%9C+%EB%82%98%22%E2%80%A6%EB%B9%84%EC%95%84%EC%9D%B4%2C+%27%ED%95%B4%EB%B3%80%27%EC%97%90+%EB%8B%B4%EC%9D%80+%EC%8B%AC%EA%B2%BD&amp;rft.date=2021-06-01&amp;rft.aulast=Park&amp;rft.aufirst=Sang-woo&amp;rft_id=http%3A%2F%2Fisplus.live.joins.com%2Fnews%2Farticle%2Farticle.asp%3Ftotal_id%3D24071835&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWaterfall+%28B.I+album%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-cd-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-cd_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-cd_17-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://twitter.com/bijapanofficial/status/1411887416508489735">"BI's first solo album "Waterfall" released in Japan officially imported!"</a>. <i>Twitter</i><span class="reference-accessdate">. Retrieved <span class="nowrap">September 18,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Twitter&amp;rft.atitle=BI%27s+first+solo+album+%22Waterfall%22+released+in+Japan+officially+imported%21&amp;rft_id=https%3A%2F%2Ftwitter.com%2Fbijapanofficial%2Fstatus%2F1411887416508489735&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWaterfall+%28B.I+album%29" class="Z3988"></span><span class="cs1-maint citation-comment"><code class="cs1-code">{{<a href="/wiki/Template:Cite_web" title="Template:Cite web">cite web</a>}}</code>:  CS1 maint: url-status (<a href="/wiki/Category:CS1_maint:_url-status" title="Category:CS1 maint: url-status">link</a>)</span></span>
+</li>
+<li id="cite_note-lp-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-lp_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-lp_18-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://twitter.com/131_label_/status/1426052793798848516">"B.I 1ST FULL ALBUM &#91;WATERFALL&#93; VINYL PRE-ORDER OPEN"</a>. <i>Twitter</i><span class="reference-accessdate">. Retrieved <span class="nowrap">September 18,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Twitter&amp;rft.atitle=B.I+1ST+FULL+ALBUM+%5BWATERFALL%5D+VINYL+PRE-ORDER+OPEN&amp;rft_id=https%3A%2F%2Ftwitter.com%2F131_label_%2Fstatus%2F1426052793798848516&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWaterfall+%28B.I+album%29" class="Z3988"></span><span class="cs1-maint citation-comment"><code class="cs1-code">{{<a href="/wiki/Template:Cite_web" title="Template:Cite web">cite web</a>}}</code>:  CS1 maint: url-status (<a href="/wiki/Category:CS1_maint:_url-status" title="Category:CS1 maint: url-status">link</a>)</span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFMoon2021" class="citation magazine cs1">Moon, Kat (July 1, 2021). <a rel="nofollow" class="external text" href="https://time.com/6077450/best-kpop-songs-2021">"The Best K-Pop Songs of 2021 So Far"</a>. <i>Time</i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 2,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Time&amp;rft.atitle=The+Best+K-Pop+Songs+of+2021+So+Far&amp;rft.date=2021-07-01&amp;rft.aulast=Moon&amp;rft.aufirst=Kat&amp;rft_id=https%3A%2F%2Ftime.com%2F6077450%2Fbest-kpop-songs-2021&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWaterfall+%28B.I+album%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation magazine cs1"><a rel="nofollow" class="external text" href="https://time.com/6126709/best-kpop-2021/">"The Best K-Pop Songs and Albums of 2021"</a>. <i>Time</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2021-12-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Time&amp;rft.atitle=The+Best+K-Pop+Songs+and+Albums+of+2021&amp;rft_id=https%3A%2F%2Ftime.com%2F6126709%2Fbest-kpop-2021%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWaterfall+%28B.I+album%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-charting-21"><span class="mw-cite-backlink">^ <a href="#cite_ref-charting_21-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-charting_21-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-charting_21-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFHong2021" class="citation web cs1 cs1-prop-foreign-lang-source">Hong, Hye-min (June 2, 2021). <a rel="nofollow" class="external text" href="https://www.hankookilbo.com/News/Read/A2021060211330003745">"돌아온 비아이, 글로벌 차트 휩쓴 저력"</a> &#91;B.I is back, global chart sweep potential.&#93;. <i><a href="/wiki/Hankook_Ilbo" title="Hankook Ilbo">Hankook Ilbo</a></i> (in Korean)<span class="reference-accessdate">. Retrieved <span class="nowrap">June 12,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Hankook+Ilbo&amp;rft.atitle=%EB%8F%8C%EC%95%84%EC%98%A8+%EB%B9%84%EC%95%84%EC%9D%B4%2C+%EA%B8%80%EB%A1%9C%EB%B2%8C+%EC%B0%A8%ED%8A%B8+%ED%9C%A9%EC%93%B4+%EC%A0%80%EB%A0%A5&amp;rft.date=2021-06-02&amp;rft.aulast=Hong&amp;rft.aufirst=Hye-min&amp;rft_id=https%3A%2F%2Fwww.hankookilbo.com%2FNews%2FRead%2FA2021060211330003745&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWaterfall+%28B.I+album%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-gaon6-22"><span class="mw-cite-backlink">^ <a href="#cite_ref-gaon6_22-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-gaon6_22-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1 cs1-prop-foreign-lang-source"><a rel="nofollow" class="external text" href="http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;targetTime=23&amp;hitYear=2021&amp;termGbn=week">"Gaon Album Chart – Week 23, 2021"</a>. <i><a href="/wiki/Gaon_Music_Chart" class="mw-redirect" title="Gaon Music Chart">Gaon Chart</a></i> (in Korean)<span class="reference-accessdate">. Retrieved <span class="nowrap">June 16,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Gaon+Chart&amp;rft.atitle=Gaon+Album+Chart+%E2%80%93+Week+23%2C+2021&amp;rft_id=http%3A%2F%2Fgaonchart.co.kr%2Fmain%2Fsection%2Fchart%2Falbum.gaon%3FnationGbn%3DT%26serviceGbn%3D%26targetTime%3D23%26hitYear%3D2021%26termGbn%3Dweek&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWaterfall+%28B.I+album%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-oricon44-23"><span class="mw-cite-backlink">^ <a href="#cite_ref-oricon44_23-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-oricon44_23-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.oricon.co.jp/rank/ja/w/2021-06-21/p/5/">"2021年06月07日～2021年06月13日 オリコン週間 アルバムランキング 41～50位"</a>. <i>ORICON NEWS</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2021-07-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ORICON+NEWS&amp;rft.atitle=2021%E5%B9%B406%E6%9C%8807%E6%97%A5%EF%BD%9E2021%E5%B9%B406%E6%9C%8813%E6%97%A5+%E3%82%AA%E3%83%AA%E3%82%B3%E3%83%B3%E9%80%B1%E9%96%93+%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0+41%EF%BD%9E50%E4%BD%8D&amp;rft_id=https%3A%2F%2Fwww.oricon.co.jp%2Frank%2Fja%2Fw%2F2021-06-21%2Fp%2F5%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWaterfall+%28B.I+album%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-billboardjp8-24"><span class="mw-cite-backlink">^ <a href="#cite_ref-billboardjp8_24-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-billboardjp8_24-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1 cs1-prop-foreign-lang-source"><a rel="nofollow" class="external text" href="https://www.billboard-japan.com/charts/detail?a=dlalbums&amp;year=2021&amp;month=06&amp;day=14">"Billboard Japan, Download Albums: 2021-06-09"</a>. <i><a href="/wiki/Billboard_Japan" title="Billboard Japan">Billboard Japan</a></i> (in Japanese)<span class="reference-accessdate">. Retrieved <span class="nowrap">June 9,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Billboard+Japan&amp;rft.atitle=Billboard+Japan%2C+Download+Albums%3A+2021-06-09&amp;rft_id=https%3A%2F%2Fwww.billboard-japan.com%2Fcharts%2Fdetail%3Fa%3Ddlalbums%26year%3D2021%26month%3D06%26day%3D14&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWaterfall+%28B.I+album%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFEujean2021" class="citation web cs1">Eujean, Chung (June 3, 2021). <a rel="nofollow" class="external text" href="https://hanteonews.com/en/article/chart?fc=21445">"&#91;Record of the week&#93; B.I's Solo Debut Music Video Became the Most Viewed Male Solo Artist Debut MV in the First 24 Hours"</a>. <i>Hanteo News</i><span class="reference-accessdate">. Retrieved <span class="nowrap">June 9,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Hanteo+News&amp;rft.atitle=%5BRecord+of+the+week%5D+B.I%27s+Solo+Debut+Music+Video+Became+the+Most+Viewed+Male+Solo+Artist+Debut+MV+in+the+First+24+Hours&amp;rft.date=2021-06-03&amp;rft.aulast=Eujean&amp;rft.aufirst=Chung&amp;rft_id=https%3A%2F%2Fhanteonews.com%2Fen%2Farticle%2Fchart%3Ffc%3D21445&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWaterfall+%28B.I+album%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFMoon2021" class="citation magazine cs1">Moon, Kat (December 8, 2021). <a rel="nofollow" class="external text" href="https://time.com/6126709/best-kpop-2021/">"The Best K-Pop Songs and Albums of 2021"</a>. <i><a href="/wiki/Time_(magazine)" title="Time (magazine)">Time</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">December 10,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Time&amp;rft.atitle=The+Best+K-Pop+Songs+and+Albums+of+2021&amp;rft.date=2021-12-08&amp;rft.aulast=Moon&amp;rft.aufirst=Kat&amp;rft_id=https%3A%2F%2Ftime.com%2F6126709%2Fbest-kpop-2021%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWaterfall+%28B.I+album%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-gaon9-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-gaon9_27-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1 cs1-prop-foreign-lang-source"><a rel="nofollow" class="external text" href="http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;targetTime=06&amp;hitYear=2021&amp;termGbn=month">"Gaon Album Chart – Month of June, 2021"</a>. <i><a href="/wiki/Gaon_Music_Chart" class="mw-redirect" title="Gaon Music Chart">Gaon Chart</a></i> (in Korean)<span class="reference-accessdate">. Retrieved <span class="nowrap">July 8,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Gaon+Chart&amp;rft.atitle=Gaon+Album+Chart+%E2%80%93+Month+of+June%2C+2021&amp;rft_id=http%3A%2F%2Fgaonchart.co.kr%2Fmain%2Fsection%2Fchart%2Falbum.gaon%3FnationGbn%3DT%26serviceGbn%3D%26targetTime%3D06%26hitYear%3D2021%26termGbn%3Dmonth&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWaterfall+%28B.I+album%29" class="Z3988"></span></span>
+</li>
+</ol></div>
+<!--
+NewPP limit report
+Parsed by mw1383
+Cached time: 20220707144152
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.768 seconds
+Real time usage: 0.883 seconds
+Preprocessor visited node count: 3131/1000000
+Post‐expand include size: 85444/2097152 bytes
+Template argument size: 4578/2097152 bytes
+Highest expansion depth: 27/100
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 84663/5000000 bytes
+Lua time usage: 0.427/10.000 seconds
+Lua memory usage: 9091377/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  774.631      1 -total
+ 39.45%  305.601      1 Template:Reflist
+ 38.02%  294.508      1 Template:Infobox_album
+ 31.48%  243.868     24 Template:Cite_web
+ 22.80%  176.647      2 Template:Infobox
+ 10.98%   85.060      1 Template:Short_description
+  9.58%   74.235      1 Template:Track_listing
+  6.78%   52.482      1 Template:Singles
+  4.87%   37.691     21 Template:Hlist
+  4.06%   31.479      1 Template:Album_ratings
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:67899541-0!canonical and timestamp 20220707144151 and revision id 1092927040.
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Waterfall_(B.I_album)&amp;oldid=1092927040">https://en.wikipedia.org/w/index.php?title=Waterfall_(B.I_album)&amp;oldid=1092927040</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Korean-language_albums" title="Category:Korean-language albums">Korean-language albums</a></li><li><a href="/wiki/Category:2021_debut_albums" title="Category:2021 debut albums">2021 debut albums</a></li><li><a href="/wiki/Category:Charity_albums" title="Category:Charity albums">Charity albums</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_Korean-language_sources_(ko)" title="Category:CS1 Korean-language sources (ko)">CS1 Korean-language sources (ko)</a></li><li><a href="/wiki/Category:CS1_maint:_url-status" title="Category:CS1 maint: url-status">CS1 maint: url-status</a></li><li><a href="/wiki/Category:CS1_Japanese-language_sources_(ja)" title="Category:CS1 Japanese-language sources (ja)">CS1 Japanese-language sources (ja)</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:Album_articles_lacking_alt_text_for_covers" title="Category:Album articles lacking alt text for covers">Album articles lacking alt text for covers</a></li><li><a href="/wiki/Category:AC_with_0_elements" title="Category:AC with 0 elements">AC with 0 elements</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+
+
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label" role="navigation"  >
+	<h3
+		id="p-personal-label"
+
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span title="The user page for the IP address you are editing as">Not logged in</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Waterfall+%28B.I+album%29" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Waterfall+%28B.I+album%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li></ul>
+
+	</div>
+</nav>
+
+		<div id="left-navigation">
+
+
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<h3
+		id="p-namespaces-label"
+
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/Waterfall_(B.I_album)" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/Talk:Waterfall_(B.I_album)" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li></ul>
+
+	</div>
+</nav>
+
+
+
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	/>
+	<label
+		id="p-variants-label"
+		 aria-label="Change language variant"
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">English</span>
+	</label>
+	<div class="vector-menu-content">
+
+		<ul class="vector-menu-content-list"></ul>
+
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+
+
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-views-label" role="navigation"  >
+	<h3
+		id="p-views-label"
+
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Views</span>
+	</h3>
+	<div class="vector-menu-content">
+
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected mw-list-item"><a href="/wiki/Waterfall_(B.I_album)"><span>Read</span></a></li><li id="ca-edit" class="mw-list-item"><a href="/w/index.php?title=Waterfall_(B.I_album)&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=Waterfall_(B.I_album)&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li></ul>
+
+	</div>
+</nav>
+
+
+
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="More options" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	/>
+	<label
+		id="p-cactions-label"
+
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">More</span>
+	</label>
+	<div class="vector-menu-content">
+
+		<ul class="vector-menu-content-list"></ul>
+
+	</div>
+</nav>
+
+
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+			<h3 >
+				<label for="searchInput">Search</label>
+			</h3>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Special:Search">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Search Wikipedia for this text" value="Search">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Go to a page with this exact name if it exists" value="Go">
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Main_Page"
+			title="Visit the main page"></a>
+	</div>
+
+
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"  >
+	<h3
+		id="p-navigation-label"
+
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li></ul>
+
+	</div>
+</nav>
+
+
+
+<nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"  >
+	<h3
+		id="p-interaction-label"
+
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+
+		<ul class="vector-menu-content-list"><li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li></ul>
+
+	</div>
+</nav>
+
+
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"  >
+	<h3
+		id="p-tb-label"
+
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Waterfall_(B.I_album)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Waterfall_(B.I_album)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Waterfall_(B.I_album)&amp;oldid=1092927040" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Waterfall_(B.I_album)&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Waterfall_%28B.I_album%29&amp;id=1092927040&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q107291952" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li></ul>
+
+	</div>
+</nav>
+
+
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"  >
+	<h3
+		id="p-coll-print_export-label"
+
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Waterfall_%28B.I_album%29&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Waterfall_(B.I_album)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li></ul>
+
+	</div>
+</nav>
+
+
+
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"  >
+	<h3
+		id="p-lang-label"
+
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Waterfall_(album_B.I)" title="Waterfall (album B.I) – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q107291952#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 13 June 2022, at 13:47<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License 3.0</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Waterfall_(B.I_album)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.768","walltime":"0.883","ppvisitednodes":{"value":3131,"limit":1000000},"postexpandincludesize":{"value":85444,"limit":2097152},"templateargumentsize":{"value":4578,"limit":2097152},"expansiondepth":{"value":27,"limit":100},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":84663,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  774.631      1 -total"," 39.45%  305.601      1 Template:Reflist"," 38.02%  294.508      1 Template:Infobox_album"," 31.48%  243.868     24 Template:Cite_web"," 22.80%  176.647      2 Template:Infobox"," 10.98%   85.060      1 Template:Short_description","  9.58%   74.235      1 Template:Track_listing","  6.78%   52.482      1 Template:Singles","  4.87%   37.691     21 Template:Hlist","  4.06%   31.479      1 Template:Album_ratings"]},"scribunto":{"limitreport-timeusage":{"value":"0.427","limit":"10.000"},"limitreport-memusage":{"value":9091377,"limit":52428800}},"cachereport":{"origin":"mw1383","timestamp":"20220707144152","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Waterfall (B.I album)","url":"https:\/\/en.wikipedia.org\/wiki\/Waterfall_(B.I_album)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q107291952","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q107291952","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2021-06-09T03:15:23Z","dateModified":"2022-06-13T13:47:42Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/2\/2b\/B.I_Waterfall_Album_Cover.jpg","headline":"2021 debut album by B.I"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Waterfall (B.I album)","url":"https:\/\/en.wikipedia.org\/wiki\/Waterfall_(B.I_album)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q107291952","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q107291952","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2021-06-09T03:15:23Z","dateModified":"2022-06-13T13:47:42Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/2\/2b\/B.I_Waterfall_Album_Cover.jpg","headline":"2021 debut album by B.I"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":154,"wgHostname":"mw1417"});});</script>
+</body>
+</html>

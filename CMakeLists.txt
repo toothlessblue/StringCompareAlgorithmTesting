@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.21)
+project(StringComparisons)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(StringComparisons main.cpp Timer.cpp Timer.h DataLoader/DataLoader.cpp DataLoader/DataLoader.h IterativeAlgorithm/IterativeAlgorithm.h IterativeAlgorithm/IterativeCompare.cpp BoasAlgorithm/BoasAlgorithm.cpp BoasAlgorithm/BoasAlgorithm.h StringComparisonAlgorithmBase/StringComparisonAlgorithmBase.cpp StringComparisonAlgorithmBase/StringComparisonAlgorithmBase.h)
